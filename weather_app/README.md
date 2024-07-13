@@ -1,16 +1,14 @@
-# weather_app
+TASK 2- CODTECH
 
-A new Flutter project.
+Name: SK ABUL AMAN
+Company: CODTECH IT SOLUTIONS
+ID: CT08DS2384
+Domain: ANDROID DEVELOPMENT
+Duration: June 15th to July 15th, 2024.
+Mentor: Neela Santhosh Kumar
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+OVERVIEW OF THE PROJECT:-
+This app uses OpenWeather API to fetch real-time weather data of cities.
+TECH STACK USED:
+1.Flutter
+2.Openweather API
